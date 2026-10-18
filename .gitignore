@@ -1,0 +1,16 @@
+# 个人歌单数据（含听歌记录，切勿上传）
+*.lxmc
+lx_list.json
+lx_list_part_*.json
+*_decode.json
+clipboard_test.txt
+_test_*.js
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
